@@ -19,11 +19,11 @@ I am a passionate and dedicated **Machine Learning and Software Development Enth
 My journey in technology has been driven by a keen interest in solving complex problems and leveraging data to generate impactful insights.
 
 ### Current Research
-- Working with Patrick Romano and Dr. Monika Ray on developing transparent models for applications in medicine and law to ensure reliability and fairness in decision-making processes.
-- Collaborating with Dr. Lee Miller at the Center of Mind and Brain to create metrics for assessing speech intelligibility, validated by Speech-Language Pathologists. Converting these metrics into loss functions for model optimization and developing speech enhancement models to improve synthesized speech quality. Integrating these advancements into an end-to-end system for intelligible speech synthesis.
-
-Previously, I also worked on investigating language polarization with Dr. Anshuman Chhabra and Dr. Magdalena. We dissected the polarization in unstructured natural language found in political sources. By employing LLMs, including GPT-3.5 and GPT-4, we structured the study of language polarization to enhance our understanding of language use across various contexts.
-
+- Developing transparent models for medicine and law to ensure fair decision-making with Dr. Patrick Romano and Dr. Monika Ray
+- Creating metrics for speech intelligibility with Dr. Lee Miller, optimized for better speech synthesis.
+  
+Previously, I studied language polarization using LLMs like GPT-3.5 and GPT-4 in political Sources with Dr. Anshuman and Dr. Magdalena.
+ 
 - ⚡ Fun fact: I'm deeply fascinated by the potential of applied machine learning and enjoy conducting research to explore how these technologies can solve real-world problems and improve everyday life.
 
 Let's connect and innovate together!
