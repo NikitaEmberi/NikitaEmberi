@@ -32,7 +32,7 @@ Let's connect and innovate together!
 
 
 <p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api?username=NikitaEmberi7&show_icons=true&theme=gotham&hide_border=true&background=060A0CD0" alt="NikitaEmberi" />
+ <img src="https://github-readme-stats.vercel.app/api?username=NikitaEmberi&show_icons=true&theme=gotham&hide_border=true&background=060A0CD0" alt="NikitaEmberi" />
 </p>
 
 
