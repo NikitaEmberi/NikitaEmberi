@@ -49,7 +49,7 @@ Let's connect and innovate together!
   <img src="https://img.shields.io/badge/Data%20Science-%230A0?style=for-the-badge&logo=data-science&logoColor=white" alt="Data Science" />
   <img src="https://img.shields.io/badge/Machine%20Learning-%231572B6?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Deep%20Learning-%23E34F26?style=for-the-badge&logo=deep-learning&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/NLP-%23E44D26?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="Natural Language Processing" />
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-%23E44D26?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="Natural Language Processing" />
 </p>
 
 
