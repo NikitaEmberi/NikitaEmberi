@@ -44,6 +44,14 @@ Let's connect and innovate together!
  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NikitaEmberi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NikitaEmberi&hide_border=true&theme=gotham&background=060A0CD0" />
 </p>
 
+### Interests
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-%230A0?style=for-the-badge&logo=data-science&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-%231572B6?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-%23E34F26?style=for-the-badge&logo=deep-learning&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/NLP-%23E44D26?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="Natural Language Processing" />
+</p>
+
 
 
 
