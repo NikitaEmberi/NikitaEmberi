@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=NikitaEmberi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=NikitaEmberi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<!--   <img src="https://komarev.com/ghpvc/?username=NikitaEmberi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> -->
 </p>
 
 I am a passionate and dedicated **Machine Learning and Software Development Enthusiast** currently pursuing my MS in Computer Science at the University of California, Davis. 
