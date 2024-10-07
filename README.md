@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NikitaEmberi&label=Profile%20views&color=0e75b6&style=flat" alt="mmertpolat" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=NikitaEmberi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 I am a passionate and dedicated **Machine Learning and Software Development Enthusiast** currently pursuing my MS in Computer Science at the University of California, Davis. 
 My journey in technology has been driven by a keen interest in solving complex problems and leveraging data to generate impactful insights.
